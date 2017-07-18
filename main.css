@@ -16,3 +16,19 @@ nav {
 li {
 	display: inline;
 }
+
+img {
+	max-width: 250px;
+}
+
+table, th, td {
+	border: 1px solid grey;
+}
+
+table {
+	margin: auto;
+}
+
+.center-text {
+	text-align: center;
+}
